@@ -20,4 +20,6 @@ Some planned enhancements include :
   - The use of LWJGLX
   - Fixing the scrollbar offseting in ```GuiNewChat```
   - Fix the player not rendering when looking in certain directions of below a certain Y-Level
+  - Updating libraries
+  - Fixing the glitch where your arm moves up and to the left randomly
 </br>
