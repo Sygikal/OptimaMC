@@ -22,4 +22,6 @@ Some planned enhancements include :
   - Fix the player not rendering when looking in certain directions of below a certain Y-Level
   - Updating libraries
   - Fixing the glitch where your arm moves up and to the left randomly
+  - Async screenshot
+  - Multithreaded chunk loading
 </br>
