@@ -19,6 +19,7 @@ Some of these enhancements include : <br>
   - Better controls menu with search bar
   - COMPLETELY removed anything relating to Demo, and Stream
   - Removing all snooper mechanics (0.0001% faster)
+  - Reimplemented the Loading Bar on world creation because it was always there, it just needed some motivation to get working
 
 Some planned enhancements include :
   - The use of LWJGLX
