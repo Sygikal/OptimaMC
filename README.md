@@ -15,6 +15,10 @@ Some of these enhancements include : <br>
   - Very badly removing the error caused by ```NetHandlerPlayClient.handleSpawnPlayer``` (It seems very hacky)
   - Fixed Third-Person Camera colliding with non-full blocks (Grass, Dead Bushes, etc.)
   - Removed the chunk of code that is responsible for the black box rendering when in the void, and above the void (The sky is actually a sky)
+  - Fixed ```ServerPinger``` so it doesnt take 3000 years to load more than 6 servers and also doesnt ddos anymore
+  - Better controls menu with search bar
+  - COMPLETELY removed anything relating to Demo, and Stream
+  - Removing all snooper mechanics (0.0001% faster)
 
 Some planned enhancements include :
   - The use of LWJGLX
