@@ -4,6 +4,6 @@ public class ClientBrandRetriever
 {
     public static String getClientModName()
     {
-        return "vanilla";
+        return net.minecraftforge.fml.common.FMLCommonHandler.instance().getModName();
     }
 }
